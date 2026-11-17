@@ -1,0 +1,5 @@
+# Local build tools and backup kernels
+misc/
+prebuilt/lahaina/_*
+*.kate-swp
+*~
