@@ -14,7 +14,7 @@
 
 # Device Info
  TARGET_ARCH=arm64
- OF_TARGET_DEVICES="lahaina,porsche,RE58B2L1,RE52BL1,RMX3310,RMX3311,RMX3312"
+ FOX_TARGET_DEVICES="lahaina,porsche,RE58B2L1,RE52BL1,RMX3310,RMX3311,RMX3312"
  # Confirmado para lahaina (Snapdragon 888)
 
  #FOX_VARIANT="12.1"
